@@ -61,4 +61,4 @@ Actively contributing to:
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](#)
 [<img src="https://komarev.com/ghpvc/?username=demola09&label=Profile%20views&color=0e75b6&style=flat" alt="demola09" />](https://github.com/demola09)
 
-Ganbate ✌!!
+がんばって!! ✌!!
