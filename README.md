@@ -38,7 +38,7 @@
 
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-- [kindly view others](#)
+- [Lean Six SIgma](https://leansixsigmainstitute.org/)
 
 ---
 
