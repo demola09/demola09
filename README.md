@@ -70,6 +70,6 @@ Actively contributing to:
 
 ## 🔗 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adelekan-ademola-62092b14b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=demola09&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=demola09&color=green)
