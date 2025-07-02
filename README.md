@@ -1,6 +1,6 @@
 # Hi there, I'm Demola 👋
 
-🎓 A **DevOps Engineer** with a passion for **Platform Engineering**, **Site Reliability Engineering (SRE)**, **Technical Writing**, and **Public Speaking**.
+🎓 A **Senior DevOps Engineer** with a track record of excellence in **Platform Engineering**, **Site Reliability Engineering (SRE)**, **Technical Writing**, and **Public Speaking**.
 
 ---
 
