@@ -20,6 +20,16 @@ Hi, I'm Demola, a Senior DevOps Engineer with experience in Platform Engineering
 
 - Automating repetitive processes  
 - Guiding people to get into the DevOps space
+- Driving engineering excellence through modern DevOps culture and practices
+- Designing scalable, secure, and resilient platform infrastructures
+- Enabling developer velocity by optimizing CI/CD pipelines and internal tooling
+- Advocating for Site Reliability Engineering (SRE) principles to improve system health and availability
+- Building and mentoring high-performing DevOps teams
+- Championing Infrastructure as Code (IaC) and GitOps at scale
+- Integrating observability and monitoring for proactive system insights
+- Automating everything — from cloud provisioning to incident response
+- Fostering a culture of collaboration across engineering, security, and operations
+- Contributing to open-source and DevOps communities
 
 <h2 align="center">  <strong> i'm a hardcore biker!! </strong></h2> 
 
